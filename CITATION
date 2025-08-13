@@ -1,0 +1,15 @@
+@article{DBLP:journals/tches/GaspozD25,
+  author       = {John Gaspoz and
+                  Siemen Dhooghe},
+  title        = {Bit t-SNI Secure Multiplication Gadget for Inner Product Masking},
+  journal      = {{IACR} Trans. Cryptogr. Hardw. Embed. Syst.},
+  volume       = {2025},
+  number       = {1},
+  pages        = {104--127},
+  year         = {2025},
+  url          = {https://doi.org/10.46586/tches.v2025.i1.104-127},
+  doi          = {10.46586/TCHES.V2025.I1.104-127},
+  timestamp    = {Mon, 03 Mar 2025 22:24:16 +0100},
+  biburl       = {https://dblp.org/rec/journals/tches/GaspozD25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
